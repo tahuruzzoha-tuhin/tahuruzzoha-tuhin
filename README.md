@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tahuruzzoha-tuhin.
-- 👀 I’m interested in various technogy.
+- 👀 I’m interested in various technology.
 - 🌱 I’m currently learning mobile & web application.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: http://tahuruzzoha.me 
