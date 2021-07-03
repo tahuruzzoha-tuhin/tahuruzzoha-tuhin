@@ -2,7 +2,7 @@
 - 👀 I’m interested in various technology.
 - 🌱 I’m currently learning mobile & web application.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me: http://tahuruzzoha.me 
+- 📫 How to reach me: https://tahuruzzoha-tuhin.github.io/
 
 <!---
 tahuruzzoha-tuhin/tahuruzzoha-tuhin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
